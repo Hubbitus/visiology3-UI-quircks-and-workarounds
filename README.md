@@ -1,6 +1,6 @@
 # Visiology 3 some UI quirks and workarounds
 
-Installation [link]() for the impatient (please read section [installation](#installation) for the prerequisites and detailed instructions).
+Installation [link](https://github.com/Hubbitus/visiology3-UI-quirks-and-workarounds/raw/master/visiology3-UI-quircks-and-workarounds.user.js) for the impatient (please read section [installation](#installation) for the prerequisites and detailed instructions).
 
 # Purpose
 
@@ -23,7 +23,7 @@ This script show it widely and turns into clickable links:
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 ## Script installation
-Just follow the [link]().
+Just follow the [link](https://github.com/Hubbitus/visiology3-UI-quirks-and-workarounds/raw/master/visiology3-UI-quircks-and-workarounds.user.js).
 
 > **TIP** Script configured for auto-updates, just allow that in extension settings!
 

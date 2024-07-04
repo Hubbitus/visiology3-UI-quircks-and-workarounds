@@ -8,6 +8,8 @@
 // @icon         https://static.tildacdn.com/tild6231-3037-4733-b734-633533663566/favicon.ico
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @grant        GM.addStyle
+// @updateURL    https://github.com/Hubbitus/visiology3-UI-quirks-and-workarounds/raw/master/visiology3-UI-quircks-and-workarounds.user.js
+// @downloadURL  https://github.com/Hubbitus/visiology3-UI-quirks-and-workarounds/raw/master/visiology3-UI-quircks-and-workarounds.user.js
 // ==/UserScript==
 
 /**
